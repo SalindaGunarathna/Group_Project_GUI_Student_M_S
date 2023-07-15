@@ -1,0 +1,854 @@
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.exe
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\Humanizer.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.csproj.AssemblyReference.cache
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\AddStudentWindow.g.cs
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\LoginWindow.g.cs
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\StudentWindow.g.cs
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\App.g.cs
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S_MarkupCompile.cache
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S_MarkupCompile.lref
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\AddStudentWindow.baml
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\AddUserWindow.baml
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\LoginWindow.baml
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\MainWindow.baml
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\StudentWindow.baml
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.g.resources
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.GeneratedMSBuildEditorConfig.editorconfig
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.AssemblyInfoInputs.cache
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.AssemblyInfo.cs
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.csproj.CoreCompileInputs.cache
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.csproj.CopyComplete
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\refint\StudentManagement_S.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.pdb
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.deps.json
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.runtimeconfig.json
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.pdb
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.genruntimeconfig.cache
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\ref\StudentManagement_S.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\AdminWindow.g.cs
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\AdminWindow.baml
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\EditUserWindow.g.cs
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\EditUserWindow.baml
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\AddModuleWindow.g.cs
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\AddModuleWindow.baml
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\ControlzEx.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\FontAwesome.Sharp.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Microns.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Modern.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\bin\Debug\net7.0-windows\de\MahApps.Metro.resources.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S\StudentManagement_S\obj\Debug\net7.0-windows\App.baml
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.csproj.AssemblyReference.cache
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\AddModuleWindow.g.cs
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\AddStudentWindow.g.cs
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\AdminWindow.g.cs
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\EditUserWindow.g.cs
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\LoginWindow.g.cs
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\StudentWindow.g.cs
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\App.g.cs
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S_MarkupCompile.cache
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S_MarkupCompile.lref
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.exe
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.deps.json
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.runtimeconfig.json
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.pdb
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\ControlzEx.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\FontAwesome.Sharp.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Humanizer.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Microns.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Modern.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\de\MahApps.Metro.resources.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\App.baml
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\AddModuleWindow.baml
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\AddStudentWindow.baml
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\AddUserWindow.baml
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\AdminWindow.baml
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\EditUserWindow.baml
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\LoginWindow.baml
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\MainWindow.baml
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\StudentWindow.baml
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.g.resources
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.GeneratedMSBuildEditorConfig.editorconfig
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.AssemblyInfoInputs.cache
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.AssemblyInfo.cs
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.csproj.CoreCompileInputs.cache
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.csproj.CopyComplete
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\refint\StudentManagement_S.dll
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.pdb
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.genruntimeconfig.cache
+D:\3rd sem\GUI programing\project my one\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\ref\StudentManagement_S.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.exe
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.deps.json
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.runtimeconfig.json
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.pdb
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\ControlzEx.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\FontAwesome.Sharp.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.csproj.AssemblyReference.cache
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\AddModuleWindow.g.cs
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\AddStudentWindow.g.cs
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\AdminWindow.g.cs
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\EditUserWindow.g.cs
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\LoginWindow.g.cs
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\StudentWindow.g.cs
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S_MarkupCompile.cache
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S_MarkupCompile.lref
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\App.baml
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\AddModuleWindow.baml
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\AddStudentWindow.baml
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\AddUserWindow.baml
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\AdminWindow.baml
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\EditUserWindow.baml
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\LoginWindow.baml
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\StudentWindow.baml
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.g.resources
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.AssemblyInfoInputs.cache
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.AssemblyInfo.cs
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.csproj.CoreCompileInputs.cache
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.csproj.CopyComplete
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\refint\StudentManagement_S.dll
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.pdb
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.genruntimeconfig.cache
+C:\Users\Ranga Dananjaya\Desktop\StudentManagement_S9\StudentManagement_S9\StudentManagement_S\obj\Debug\net7.0-windows\ref\StudentManagement_S.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.exe
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.deps.json
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.runtimeconfig.json
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.pdb
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\ControlzEx.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\FontAwesome.Sharp.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Humanizer.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Microns.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Modern.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\de\MahApps.Metro.resources.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.csproj.AssemblyReference.cache
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\AddModuleWindow.g.cs
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\AddStudentWindow.g.cs
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\AdminWindow.g.cs
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\EditUserWindow.g.cs
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\LoginWindow.g.cs
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\StudentWindow.g.cs
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\App.g.cs
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S_MarkupCompile.cache
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S_MarkupCompile.lref
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\App.baml
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\AddModuleWindow.baml
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\AddStudentWindow.baml
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\AddUserWindow.baml
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\AdminWindow.baml
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\EditUserWindow.baml
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\LoginWindow.baml
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\StudentWindow.baml
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.g.resources
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.AssemblyInfoInputs.cache
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.AssemblyInfo.cs
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.csproj.CoreCompileInputs.cache
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.csproj.CopyComplete
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\refint\StudentManagement_S.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.pdb
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.genruntimeconfig.cache
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\ref\StudentManagement_S.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.exe
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\ControlzEx.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\FontAwesome.Sharp.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Humanizer.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Microns.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Modern.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\de\MahApps.Metro.resources.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.csproj.AssemblyReference.cache
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\AddModuleWindow.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\AddStudentWindow.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\AdminWindow.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\EditUserWindow.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\LoginWindow.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\StudentWindow.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\App.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S_MarkupCompile.cache
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S_MarkupCompile.lref
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\App.baml
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\AddModuleWindow.baml
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\AddStudentWindow.baml
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\AddUserWindow.baml
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\AdminWindow.baml
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\EditUserWindow.baml
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\LoginWindow.baml
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\MainWindow.baml
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\StudentWindow.baml
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.g.resources
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.GeneratedMSBuildEditorConfig.editorconfig
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.AssemblyInfoInputs.cache
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.AssemblyInfo.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.csproj.CoreCompileInputs.cache
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.csproj.CopyComplete
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\refint\StudentManagement_S.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.pdb
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.deps.json
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.runtimeconfig.json
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.pdb
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.genruntimeconfig.cache
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Group Project\Student Management Sys\StudentManagement_S\obj\Debug\net7.0-windows\ref\StudentManagement_S.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.exe
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.deps.json
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.runtimeconfig.json
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.pdb
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\ControlzEx.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\FontAwesome.Sharp.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Humanizer.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Microns.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Modern.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\de\MahApps.Metro.resources.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.csproj.AssemblyReference.cache
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\AddModuleWindow.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\AddStudentWindow.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\AdminWindow.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\EditUserWindow.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\LoginWindow.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\StudentWindow.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\App.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S_MarkupCompile.cache
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S_MarkupCompile.lref
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\App.baml
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\AddModuleWindow.baml
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\AddStudentWindow.baml
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\AddUserWindow.baml
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\AdminWindow.baml
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\EditUserWindow.baml
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\LoginWindow.baml
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\MainWindow.baml
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\StudentWindow.baml
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.g.resources
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.GeneratedMSBuildEditorConfig.editorconfig
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.AssemblyInfoInputs.cache
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.AssemblyInfo.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.csproj.CoreCompileInputs.cache
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.csproj.CopyComplete
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\refint\StudentManagement_S.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.pdb
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.genruntimeconfig.cache
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy\StudentManagement_S\obj\Debug\net7.0-windows\ref\StudentManagement_S.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.exe
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.deps.json
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.runtimeconfig.json
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\StudentManagement_S.pdb
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\ControlzEx.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\FontAwesome.Sharp.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Humanizer.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Microns.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Modern.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\de\MahApps.Metro.resources.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.csproj.AssemblyReference.cache
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\AddModuleWindow.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\AddStudentWindow.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\AdminWindow.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\EditUserWindow.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\LoginWindow.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\StudentWindow.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\App.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S_MarkupCompile.cache
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S_MarkupCompile.lref
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\App.baml
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\AddModuleWindow.baml
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\AddStudentWindow.baml
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\AddUserWindow.baml
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\AdminWindow.baml
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\EditUserWindow.baml
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\LoginWindow.baml
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\MainWindow.baml
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\StudentWindow.baml
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.g.resources
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.GeneratedMSBuildEditorConfig.editorconfig
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.AssemblyInfoInputs.cache
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.AssemblyInfo.cs
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.csproj.CoreCompileInputs.cache
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.csproj.CopyComplete
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\refint\StudentManagement_S.dll
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.pdb
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\StudentManagement_S.genruntimeconfig.cache
+D:\3rd sem\GUI programing\project my one\aaa\Group Project\Student Management Sys - Copy - Copy\StudentManagement_S\obj\Debug\net7.0-windows\ref\StudentManagement_S.dll

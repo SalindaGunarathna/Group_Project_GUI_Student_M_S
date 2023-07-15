@@ -1,0 +1,172 @@
+﻿<Window x:Class="StudentManagement_S.AddStudentWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentManagement_S"
+        mc:Ignorable="d"
+        Title="AddStudentWindow" Height="500" Width="800"
+        WindowStyle="None"
+        ResizeMode="CanResizeWithGrip"  
+        WindowStartupLocation="CenterScreen"
+        Background="Transparent"
+        AllowsTransparency="True">
+    <!--<window.datacontext>
+        <local:addstudentvm/>
+    </window.datacontext>-->
+
+    <Border  CornerRadius="30">
+        <Grid>
+            <Border CornerRadius="30"                    
+            BorderThickness="2"
+            Opacity="1">
+                <Border.BorderBrush>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                        <GradientStop Color="#462AD8" Offset="0"/>
+                        <GradientStop Color="#DA34AE" Offset="0.75"/>
+                        <GradientStop Color="#8A16C1" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.BorderBrush>
+
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0,1" EndPoint="1,0">
+                        <GradientStop Color="#FF500D35" Offset="0"/>
+                        <GradientStop Color="#000033" Offset="1"/>
+                    </LinearGradientBrush>
+
+                </Border.Background>
+
+                <Grid>
+
+                    <Border CornerRadius="30">
+                        <Border.Background>
+                            <ImageBrush Stretch="UniformToFill" Opacity="0.30"
+                                        ImageSource="\images\main.png"/>
+                        </Border.Background>
+                    </Border>
+                    <Grid>
+                        <Grid.RowDefinitions>
+                                <RowDefinition Height="40"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+
+                            <Grid Grid.Row="0">
+
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition Width="30"/>
+                                    <ColumnDefinition Width="30"/>
+                                    <ColumnDefinition Width="30"/>
+                                    <ColumnDefinition Width="8"/>
+                                </Grid.ColumnDefinitions>
+
+
+
+                                <Button x:Name="btnMinimize"
+                                        BorderThickness="3"
+                                        Content="-"
+                                        Foreground="White"
+                                        FontSize="16"
+                                        FontFamily="Montserrat"
+                                        Cursor="Hand" Grid.Column="2"
+                                        Click="btnMinimize_Click" Height="40" VerticalAlignment="Top">
+
+                                    <Button.Style>
+                                        <Style TargetType="Button">
+                                            <Setter Property="Background" Value="Black"/>
+                                            <Style.Triggers>
+                                                <Trigger Property="IsMouseOver" Value="True">
+                                                    <Setter Property="Background" Value="#000DFF"/>
+                                                </Trigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </Button.Style>
+
+                                    <Button.Template>
+                                        <ControlTemplate TargetType="Button">
+                                            <Border Width="25" Height="25"
+                                                    CornerRadius="5"
+                                                    Background="{TemplateBinding Background}">
+                                                <ContentPresenter VerticalAlignment="Center"
+                                                                  HorizontalAlignment="Center"/>
+                                            </Border>
+                                        </ControlTemplate>
+                                    </Button.Template>
+                                </Button>
+
+                                <Button x:Name="btnClose"                          
+                                        BorderThickness="0"
+                                        Content="X"
+                                        Foreground="White"
+                                        FontSize="12"
+                                        FontFamily="Montserrat"
+                                        Cursor="Hand"
+                                        Grid.Column="3"
+                                        Click="Button_Click">
+
+                                    <Button.Style>
+                                        <Style TargetType="Button">
+                                            <Setter Property="Background" Value="Black"/>
+                                            <Style.Triggers>
+                                                <Trigger Property="IsMouseOver" Value="True">
+                                                    <Setter Property="Background" Value="#FF1700"/>
+                                                </Trigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </Button.Style>
+
+                                    <Button.Template>
+                                        <ControlTemplate TargetType="Button">
+                                            <Border Width="25" Height="25"
+                                                    CornerRadius="5"
+                                                    Background="{TemplateBinding Background}">
+                                                <ContentPresenter VerticalAlignment="Center"
+                                                      HorizontalAlignment="Center"/>
+                                            </Border>
+                                        </ControlTemplate>
+                                    </Button.Template>
+                                </Button>
+                            </Grid>
+
+                        <Grid Grid.Row="1" >
+                            <StackPanel Margin="10">
+                                <TextBlock Text="Add Student" FontSize="25" Foreground="White" FontWeight="Bold" HorizontalAlignment="Center" Margin="0 -15 0 0"/>
+                                <TextBlock Text="Index No:" Margin="20 10 20 0" Foreground="White"/>
+                            <TextBox Text="{Binding IndexNo}" Margin="20 5 20 10"/>
+                                <TextBlock Text="First Name:" Margin="20 10 20 0" Foreground="White"/>
+                                <TextBox Text="{Binding FirstName}" Margin="20 5 20 10"/>
+                                <TextBlock Text="Last Name:" Margin="20 10 20 0" Foreground="White"/>
+                                <TextBox Text="{Binding LastName}" Margin="20 5 20 10"/>
+
+                                <TextBlock Text="Student Username:" Margin="20 10 20 0" Foreground="White"/>
+                                <TextBox Text="{Binding StudentUserName}" Margin="20 5 20 10"/>
+                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                    <Button Content="Add User" Command="{Binding AddUserCommand}" Margin="20 10 20 20" Style="{StaticResource Mainbt}"/>
+                                    <Button Content="Add Student" Command="{Binding AddStudentCommand}" Margin="20 10 20 20" Style="{StaticResource Mainbt}"/>
+                                </StackPanel>
+
+                                <!-- module section-->
+
+                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                    <Button Content="Add Module" Command="{Binding AddModuleCommand}" Margin="20 0 20 15" Style="{StaticResource Mainbt}"/>
+                                    <Button Content="Save Student" Command="{Binding SaveStudentCommand}"  Margin="20 0 20 15" Style="{StaticResource Mainbt}" Click="Button_Click_1"/>
+                                    <Button Content="Back" Margin="20 0 20 15" Style="{StaticResource Mainbt}" Click="Button_Click"/>
+                                </StackPanel>
+
+                                <ListView ItemsSource="{Binding SelectedStudent.Modules}" SelectedItem="{Binding SelectedStudent.Modules,UpdateSourceTrigger=PropertyChanged}" Margin="0,10,0,0" Width="560">
+                                <ListView.View>
+                                    <GridView>
+                                        <GridViewColumn Header="Module Name" DisplayMemberBinding="{Binding ModuleName }" Width="175"/>
+                                        <GridViewColumn Header="Module Code" DisplayMemberBinding="{Binding ModuleCode}" Width="175"/>
+                                        <GridViewColumn Header="Credit" DisplayMemberBinding="{Binding Credit}" Width="175"/>
+                                    </GridView>
+                                </ListView.View>
+                            </ListView>
+                        </StackPanel>
+                        </Grid>
+                    </Grid>
+                </Grid>
+            </Border>
+        </Grid>
+    </Border>
+</Window>
